@@ -1,0 +1,922 @@
+[
+    {
+        "country_name": "Japan",
+        "gdp_debt": "237.54%",
+        "population": "126,476,461"
+    },
+    {
+        "country_name": "Venezuela",
+        "gdp_debt": "214.45%",
+        "population": "28,435,940"
+    },
+    {
+        "country_name": "Sudan",
+        "gdp_debt": "177.87%",
+        "population": null
+    },
+    {
+        "country_name": "Greece",
+        "gdp_debt": "174.15%",
+        "population": "10,423,054"
+    },
+    {
+        "country_name": "Lebanon",
+        "gdp_debt": "157.81%",
+        "population": "6,825,445"
+    },
+    {
+        "country_name": "Italy",
+        "gdp_debt": "133.43%",
+        "population": "60,461,826"
+    },
+    {
+        "country_name": "Eritrea",
+        "gdp_debt": "127.34%",
+        "population": "3,546,421"
+    },
+    {
+        "country_name": "Cape Verde",
+        "gdp_debt": "125.29%",
+        "population": "555,987"
+    },
+    {
+        "country_name": "Mozambique",
+        "gdp_debt": "124.46%",
+        "population": "31,255,435"
+    },
+    {
+        "country_name": "Portugal",
+        "gdp_debt": "119.46%",
+        "population": "10,196,709"
+    },
+    {
+        "country_name": "Barbados",
+        "gdp_debt": "117.27%",
+        "population": "287,375"
+    },
+    {
+        "country_name": "Singapore",
+        "gdp_debt": "109.37%",
+        "population": "5,850,342"
+    },
+    {
+        "country_name": "United States",
+        "gdp_debt": "106.70%",
+        "population": "331,002,651"
+    },
+    {
+        "country_name": "Bhutan",
+        "gdp_debt": "103.85%",
+        "population": "771,608"
+    },
+    {
+        "country_name": "Cyprus",
+        "gdp_debt": "101.04%",
+        "population": "1,207,359"
+    },
+    {
+        "country_name": "Bahrain",
+        "gdp_debt": "100.19%",
+        "population": "1,701,575"
+    },
+    {
+        "country_name": "Belgium",
+        "gdp_debt": "99.57%",
+        "population": "11,589,623"
+    },
+    {
+        "country_name": "France",
+        "gdp_debt": "99.20%",
+        "population": "65,273,511"
+    },
+    {
+        "country_name": "Spain",
+        "gdp_debt": "95.96%",
+        "population": "46,754,778"
+    },
+    {
+        "country_name": "Jordan",
+        "gdp_debt": "94.83%",
+        "population": "10,203,134"
+    },
+    {
+        "country_name": "Jamaica",
+        "gdp_debt": "94.13%",
+        "population": "2,961,167"
+    },
+    {
+        "country_name": "Belize",
+        "gdp_debt": "92.64%",
+        "population": "397,628"
+    },
+    {
+        "country_name": "Angola",
+        "gdp_debt": "90.46%",
+        "population": "32,866,272"
+    },
+    {
+        "country_name": "Brazil",
+        "gdp_debt": "90.36%",
+        "population": "212,559,417"
+    },
+    {
+        "country_name": "Republic of the Congo",
+        "gdp_debt": "90.19%",
+        "population": "5,518,087"
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "gdp_debt": "88.35%",
+        "population": "97,929"
+    },
+    {
+        "country_name": "Canada",
+        "gdp_debt": "88.01%",
+        "population": "37,742,154"
+    },
+    {
+        "country_name": "Egypt",
+        "gdp_debt": "86.93%",
+        "population": "102,334,404"
+    },
+    {
+        "country_name": "United Kingdom",
+        "gdp_debt": "85.67%",
+        "population": "67,886,011"
+    },
+    {
+        "country_name": "Aruba",
+        "gdp_debt": "83.57%",
+        "population": "106,766"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "gdp_debt": "82.99%",
+        "population": "21,413,249"
+    },
+    {
+        "country_name": "Tunisia",
+        "gdp_debt": "81.55%",
+        "population": "11,818,619"
+    },
+    {
+        "country_name": "Mauritania",
+        "gdp_debt": "80.61%",
+        "population": "4,649,658"
+    },
+    {
+        "country_name": "Zambia",
+        "gdp_debt": "80.50%",
+        "population": "18,383,955"
+    },
+    {
+        "country_name": "Dominica",
+        "gdp_debt": "79.84%",
+        "population": "71,986"
+    },
+    {
+        "country_name": "Gambia",
+        "gdp_debt": "78.67%",
+        "population": "2,416,668"
+    },
+    {
+        "country_name": "San Marino",
+        "gdp_debt": "77.12%",
+        "population": "33,931"
+    },
+    {
+        "country_name": "Pakistan",
+        "gdp_debt": "77.00%",
+        "population": "220,892,340"
+    },
+    {
+        "country_name": "Argentina",
+        "gdp_debt": "75.90%",
+        "population": "45,195,774"
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "gdp_debt": "74.10%",
+        "population": "219,159"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "gdp_debt": "72.37%",
+        "population": "7,976,983"
+    },
+    {
+        "country_name": "Suriname",
+        "gdp_debt": "72.05%",
+        "population": "586,632"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "gdp_debt": "71.62%",
+        "population": "183,627"
+    },
+    {
+        "country_name": "Saint Vincent and the Grenadines",
+        "gdp_debt": "71.38%",
+        "population": "110,940"
+    },
+    {
+        "country_name": "Uruguay",
+        "gdp_debt": "71.34%",
+        "population": "3,473,730"
+    },
+    {
+        "country_name": "Austria",
+        "gdp_debt": "71.17%",
+        "population": "9,006,398"
+    },
+    {
+        "country_name": "Croatia",
+        "gdp_debt": "70.73%",
+        "population": "4,105,267"
+    },
+    {
+        "country_name": "Montenegro",
+        "gdp_debt": "70.58%",
+        "population": "628,066"
+    },
+    {
+        "country_name": "Togo",
+        "gdp_debt": "70.39%",
+        "population": "8,278,724"
+    },
+    {
+        "country_name": "India",
+        "gdp_debt": "69.04%",
+        "population": "1,380,004,385"
+    },
+    {
+        "country_name": "El Salvador",
+        "gdp_debt": "68.10%",
+        "population": "6,486,205"
+    },
+    {
+        "country_name": "Mauritius",
+        "gdp_debt": "67.50%",
+        "population": "1,271,768"
+    },
+    {
+        "country_name": "Hungary",
+        "gdp_debt": "66.62%",
+        "population": "9,660,351"
+    },
+    {
+        "country_name": "Slovenia",
+        "gdp_debt": "65.44%",
+        "population": "2,078,938"
+    },
+    {
+        "country_name": "Albania",
+        "gdp_debt": "65.13%",
+        "population": "2,877,797"
+    },
+    {
+        "country_name": "Morocco",
+        "gdp_debt": "65.11%",
+        "population": "36,910,560"
+    },
+    {
+        "country_name": "Laos",
+        "gdp_debt": "64.13%",
+        "population": "7,275,560"
+    },
+    {
+        "country_name": "Burundi",
+        "gdp_debt": "63.54%",
+        "population": "11,890,784"
+    },
+    {
+        "country_name": "Djibouti",
+        "gdp_debt": "62.99%",
+        "population": "988,000"
+    },
+    {
+        "country_name": "Ireland",
+        "gdp_debt": "62.42%",
+        "population": "4,937,786"
+    },
+    {
+        "country_name": "Ukraine",
+        "gdp_debt": "62.03%",
+        "population": "43,733,762"
+    },
+    {
+        "country_name": "Senegal",
+        "gdp_debt": "62.00%",
+        "population": "16,743,927"
+    },
+    {
+        "country_name": "Ghana",
+        "gdp_debt": "61.99%",
+        "population": "31,072,940"
+    },
+    {
+        "country_name": "Maldives",
+        "gdp_debt": "61.43%",
+        "population": "540,544"
+    },
+    {
+        "country_name": "Oman",
+        "gdp_debt": "61.29%",
+        "population": "5,106,626"
+    },
+    {
+        "country_name": "Bahamas",
+        "gdp_debt": "60.49%",
+        "population": "393,244"
+    },
+    {
+        "country_name": "Nauru",
+        "gdp_debt": "60.39%",
+        "population": "10,824"
+    },
+    {
+        "country_name": "Finland",
+        "gdp_debt": "59.88%",
+        "population": "5,540,720"
+    },
+    {
+        "country_name": "Saint Kitts and Nevis",
+        "gdp_debt": "59.49%",
+        "population": "53,199"
+    },
+    {
+        "country_name": "Malawi",
+        "gdp_debt": "59.01%",
+        "population": "19,129,952"
+    },
+    {
+        "country_name": "Israel",
+        "gdp_debt": "58.96%",
+        "population": "8,655,535"
+    },
+    {
+        "country_name": "Gabon",
+        "gdp_debt": "58.48%",
+        "population": "2,225,734"
+    },
+    {
+        "country_name": "South Africa",
+        "gdp_debt": "57.81%",
+        "population": "59,308,690"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "gdp_debt": "57.70%",
+        "population": "2,860,853"
+    },
+    {
+        "country_name": "Ethiopia",
+        "gdp_debt": "57.43%",
+        "population": "114,963,588"
+    },
+    {
+        "country_name": "Vietnam",
+        "gdp_debt": "57.36%",
+        "population": "97,338,579"
+    },
+    {
+        "country_name": "Guyana",
+        "gdp_debt": "57.22%",
+        "population": "786,552"
+    },
+    {
+        "country_name": "Bolivia",
+        "gdp_debt": "57.11%",
+        "population": "11,673,021"
+    },
+    {
+        "country_name": "Germany",
+        "gdp_debt": "56.93%",
+        "population": "83,783,942"
+    },
+    {
+        "country_name": "Malaysia",
+        "gdp_debt": "56.32%",
+        "population": "32,365,999"
+    },
+    {
+        "country_name": "Costa Rica",
+        "gdp_debt": "56.15%",
+        "population": "5,094,118"
+    },
+    {
+        "country_name": "Grenada",
+        "gdp_debt": "56.12%",
+        "population": "112,523"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "gdp_debt": "56.09%",
+        "population": "6,524,195"
+    },
+    {
+        "country_name": "Niger",
+        "gdp_debt": "55.60%",
+        "population": "24,206,644"
+    },
+    {
+        "country_name": "Kenya",
+        "gdp_debt": "55.50%",
+        "population": "53,771,296"
+    },
+    {
+        "country_name": "China",
+        "gdp_debt": "55.36%",
+        "population": "1,439,323,776"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "gdp_debt": "54.92%",
+        "population": "1,968,001"
+    },
+    {
+        "country_name": "Yemen",
+        "gdp_debt": "54.51%",
+        "population": "29,825,964"
+    },
+    {
+        "country_name": "Seychelles",
+        "gdp_debt": "54.49%",
+        "population": "98,347"
+    },
+    {
+        "country_name": "Mexico",
+        "gdp_debt": "54.11%",
+        "population": "128,932,753"
+    },
+    {
+        "country_name": "Benin",
+        "gdp_debt": "54.00%",
+        "population": "12,123,200"
+    },
+    {
+        "country_name": "Qatar",
+        "gdp_debt": "52.74%",
+        "population": "2,881,053"
+    },
+    {
+        "country_name": "Vanuatu",
+        "gdp_debt": "52.18%",
+        "population": "307,145"
+    },
+    {
+        "country_name": "Netherlands",
+        "gdp_debt": "52.04%",
+        "population": "17,134,872"
+    },
+    {
+        "country_name": "Namibia",
+        "gdp_debt": "51.60%",
+        "population": "2,540,905"
+    },
+    {
+        "country_name": "Belarus",
+        "gdp_debt": "51.08%",
+        "population": "9,449,323"
+    },
+    {
+        "country_name": "Serbia",
+        "gdp_debt": "50.95%",
+        "population": "8,737,371"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "gdp_debt": "50.92%",
+        "population": "26,378,274"
+    },
+    {
+        "country_name": "Iraq",
+        "gdp_debt": "50.25%",
+        "population": "40,222,493"
+    },
+    {
+        "country_name": "Fiji",
+        "gdp_debt": "50.22%",
+        "population": "896,445"
+    },
+    {
+        "country_name": "Rwanda",
+        "gdp_debt": "50.00%",
+        "population": "12,952,218"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "gdp_debt": "49.75%",
+        "population": "1,399,488"
+    },
+    {
+        "country_name": "Tajikistan",
+        "gdp_debt": "49.46%",
+        "population": "9,537,645"
+    },
+    {
+        "country_name": "Samoa",
+        "gdp_debt": "49.44%",
+        "population": "198,414"
+    },
+    {
+        "country_name": "Ecuador",
+        "gdp_debt": "49.20%",
+        "population": "17,643,054"
+    },
+    {
+        "country_name": "Colombia",
+        "gdp_debt": "49.16%",
+        "population": "50,882,891"
+    },
+    {
+        "country_name": "Armenia",
+        "gdp_debt": "47.95%",
+        "population": "2,963,243"
+    },
+    {
+        "country_name": "Poland",
+        "gdp_debt": "47.48%",
+        "population": "37,846,611"
+    },
+    {
+        "country_name": "Algeria",
+        "gdp_debt": "46.92%",
+        "population": "43,851,044"
+    },
+    {
+        "country_name": "Slovakia",
+        "gdp_debt": "46.90%",
+        "population": "5,459,642"
+    },
+    {
+        "country_name": "Liberia",
+        "gdp_debt": "46.66%",
+        "population": "5,057,681"
+    },
+    {
+        "country_name": "Guinea",
+        "gdp_debt": "45.98%",
+        "population": "13,132,795"
+    },
+    {
+        "country_name": "Georgia",
+        "gdp_debt": "45.05%",
+        "population": "3,989,167"
+    },
+    {
+        "country_name": "Uganda",
+        "gdp_debt": "44.81%",
+        "population": "45,741,007"
+    },
+    {
+        "country_name": "Chad",
+        "gdp_debt": "42.91%",
+        "population": "16,425,864"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "gdp_debt": "42.47%",
+        "population": "20,903,273"
+    },
+    {
+        "country_name": "Malta",
+        "gdp_debt": "42.46%",
+        "population": "441,543"
+    },
+    {
+        "country_name": "Central African Republic",
+        "gdp_debt": "42.25%",
+        "population": "4,829,767"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "gdp_debt": "41.92%",
+        "population": "10,847,910"
+    },
+    {
+        "country_name": "Thailand",
+        "gdp_debt": "41.47%",
+        "population": "69,799,978"
+    },
+    {
+        "country_name": "Swaziland",
+        "gdp_debt": "41.11%",
+        "population": "1,160,164"
+    },
+    {
+        "country_name": "Australia",
+        "gdp_debt": "41.10%",
+        "population": "25,499,884"
+    },
+    {
+        "country_name": "Madagascar",
+        "gdp_debt": "41.02%",
+        "population": "27,691,018"
+    },
+    {
+        "country_name": "Nicaragua",
+        "gdp_debt": "40.88%",
+        "population": "6,624,554"
+    },
+    {
+        "country_name": "Honduras",
+        "gdp_debt": "40.80%",
+        "population": "9,904,607"
+    },
+    {
+        "country_name": "South Korea",
+        "gdp_debt": "40.54%",
+        "population": "51,269,185"
+    },
+    {
+        "country_name": "Macedonia",
+        "gdp_debt": "40.48%",
+        "population": "2,083,374"
+    },
+    {
+        "country_name": "Switzerland",
+        "gdp_debt": "39.49%",
+        "population": "8,654,622"
+    },
+    {
+        "country_name": "Myanmar",
+        "gdp_debt": "39.19%",
+        "population": "54,409,800"
+    },
+    {
+        "country_name": "Philippines",
+        "gdp_debt": "39.10%",
+        "population": "109,581,078"
+    },
+    {
+        "country_name": "Cameroon",
+        "gdp_debt": "38.11%",
+        "population": "26,545,863"
+    },
+    {
+        "country_name": "Romania",
+        "gdp_debt": "37.99%",
+        "population": "19,237,691"
+    },
+    {
+        "country_name": "Lesotho",
+        "gdp_debt": "37.95%",
+        "population": "2,142,249"
+    },
+    {
+        "country_name": "South Sudan",
+        "gdp_debt": "37.81%",
+        "population": "11,193,725"
+    },
+    {
+        "country_name": "Panama",
+        "gdp_debt": "37.81%",
+        "population": "4,314,767"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "gdp_debt": "37.72%",
+        "population": "8,947,024"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "gdp_debt": "37.49%",
+        "population": "1,402,985"
+    },
+    {
+        "country_name": "Sweden",
+        "gdp_debt": "37.23%",
+        "population": "10,099,265"
+    },
+    {
+        "country_name": "Mali",
+        "gdp_debt": "36.93%",
+        "population": "20,250,833"
+    },
+    {
+        "country_name": "Norway",
+        "gdp_debt": "36.75%",
+        "population": "5,421,241"
+    },
+    {
+        "country_name": "Latvia",
+        "gdp_debt": "36.66%",
+        "population": "1,886,198"
+    },
+    {
+        "country_name": "Tanzania",
+        "gdp_debt": "36.57%",
+        "population": "59,734,218"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "gdp_debt": "36.34%",
+        "population": "3,280,819"
+    },
+    {
+        "country_name": "Haiti",
+        "gdp_debt": "36.23%",
+        "population": "11,402,528"
+    },
+    {
+        "country_name": "Comoros",
+        "gdp_debt": "35.08%",
+        "population": "869,601"
+    },
+    {
+        "country_name": "Bangladesh",
+        "gdp_debt": "34.81%",
+        "population": "164,689,383"
+    },
+    {
+        "country_name": "Taiwan",
+        "gdp_debt": "33.91%",
+        "population": "23,816,775"
+    },
+    {
+        "country_name": "Lithuania",
+        "gdp_debt": "33.79%",
+        "population": "2,722,289"
+    },
+    {
+        "country_name": "Denmark",
+        "gdp_debt": "33.61%",
+        "population": "5,792,202"
+    },
+    {
+        "country_name": "Iceland",
+        "gdp_debt": "33.13%",
+        "population": "341,243"
+    },
+    {
+        "country_name": "Nepal",
+        "gdp_debt": "33.07%",
+        "population": "29,136,808"
+    },
+    {
+        "country_name": "Czech Republic",
+        "gdp_debt": "31.57%",
+        "population": "10,708,981"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "gdp_debt": "30.25%",
+        "population": "6,031,200"
+    },
+    {
+        "country_name": "Nigeria",
+        "gdp_debt": "30.05%",
+        "population": "206,139,589"
+    },
+    {
+        "country_name": "Iran",
+        "gdp_debt": "30.04%",
+        "population": "83,992,949"
+    },
+    {
+        "country_name": "Turkey",
+        "gdp_debt": "29.93%",
+        "population": "84,339,067"
+    },
+    {
+        "country_name": "Cambodia",
+        "gdp_debt": "29.57%",
+        "population": "16,718,965"
+    },
+    {
+        "country_name": "Indonesia",
+        "gdp_debt": "29.29%",
+        "population": "273,523,615"
+    },
+    {
+        "country_name": "Moldova",
+        "gdp_debt": "28.82%",
+        "population": "4,033,963"
+    },
+    {
+        "country_name": "New Zealand",
+        "gdp_debt": "28.07%",
+        "population": "4,822,233"
+    },
+    {
+        "country_name": "Peru",
+        "gdp_debt": "27.18%",
+        "population": "32,971,854"
+    },
+    {
+        "country_name": "Chile",
+        "gdp_debt": "27.17%",
+        "population": "19,116,201"
+    },
+    {
+        "country_name": "Guatemala",
+        "gdp_debt": "24.76%",
+        "population": "17,915,568"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "gdp_debt": "23.71%",
+        "population": "34,813,871"
+    },
+    {
+        "country_name": "Kiribati",
+        "gdp_debt": "23.48%",
+        "population": "119,449"
+    },
+    {
+        "country_name": "Marshall Islands",
+        "gdp_debt": "23.37%",
+        "population": "59,190"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "gdp_debt": "23.23%",
+        "population": "33,469,203"
+    },
+    {
+        "country_name": "Paraguay",
+        "gdp_debt": "22.37%",
+        "population": "7,132,538"
+    },
+    {
+        "country_name": "Tuvalu",
+        "gdp_debt": "21.81%",
+        "population": "11,792"
+    },
+    {
+        "country_name": "Luxembourg",
+        "gdp_debt": "21.61%",
+        "population": "625,978"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "gdp_debt": "20.99%",
+        "population": "14,862,924"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "gdp_debt": "20.90%",
+        "population": "18,776,707"
+    },
+    {
+        "country_name": "Bulgaria",
+        "gdp_debt": "19.33%",
+        "population": "6,948,445"
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "gdp_debt": "19.20%",
+        "population": "9,890,402"
+    },
+    {
+        "country_name": "Micronesia",
+        "gdp_debt": "18.41%",
+        "population": "115,023"
+    },
+    {
+        "country_name": "Kuwait",
+        "gdp_debt": "17.78%",
+        "population": "4,270,571"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "gdp_debt": "17.59%",
+        "population": "10,139,177"
+    },
+    {
+        "country_name": "Solomon Islands",
+        "gdp_debt": "14.56%",
+        "population": "686,884"
+    },
+    {
+        "country_name": "DR Congo",
+        "gdp_debt": "14.01%",
+        "population": "89,561,403"
+    },
+    {
+        "country_name": "Russia",
+        "gdp_debt": "13.79%",
+        "population": "145,934,462"
+    },
+    {
+        "country_name": "Botswana",
+        "gdp_debt": "12.78%",
+        "population": "2,351,627"
+    },
+    {
+        "country_name": "Estonia",
+        "gdp_debt": "7.61%",
+        "population": "1,326,535"
+    },
+    {
+        "country_name": "Afghanistan",
+        "gdp_debt": "6.88%",
+        "population": "38,928,346"
+    },
+    {
+        "country_name": "Brunei",
+        "gdp_debt": "2.63%",
+        "population": "437,479"
+    }
+]
